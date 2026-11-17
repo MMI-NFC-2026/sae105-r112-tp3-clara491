@@ -19,3 +19,12 @@ if (carousel) {
 }
 
 const scrollAmount = premierItem.clientWidth;
+
+<ul class="mavigation">
+    <li><a href="#item1">Item 1</a></li>
+    <li><a href="#item2">Item 2</a></li>
+    <li><a href="#item3">Item 3</a></li>
+    <li><a href="#item4">Item 4</a></li>
+    <li><a href="#item5">Item 5</a></li>
+</ul>
+
